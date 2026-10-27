@@ -6,4 +6,4 @@ Repository: Ein Repository ist ein Element in Github, in welchem man Code, Datei
 
 Branch: Branches sind eigene Arbeitsflächen abseits der Hauptarbeitsfläche. Somit kann man an bug-fixes und Features arbeiten, ohne die Hauptarbeitsfläche zu beeinflussen/ verändern. 
 
-Pull Request: Ein pull request wird verwendet um beispielsweise Code in einem neuem Branch mit anderen zu teilen ohne den Hauptcode zu beeinflussen. Wenn andere Teammitglieder mit dem Code einverstanden sind, kann man den pull request mergen und in den Hauptcode integrieren.
+Pull Request: Ein pull request wird verwendet um beispielsweise Code in einem neuem Branch mit anderen zu teilen, ohne den Hauptcode zu beeinflussen. Wenn andere Teammitglieder mit dem Code einverstanden sind, kann man den pull request mergen und in den Hauptcode integrieren.
