@@ -5,6 +5,9 @@ Ich habe gelernt wie man ein eigenes Repository und darin einen Branch anlegt. Z
 ## <ins>Repository:</ins>
 Ein Repository ist ein Element in Github, in welchem man Code, Datein  und deren Änderungsverlauf speichern kann.
 
+## <ins>Commit</ins>
+Commits sind eine Art Speicherpunkte von Dateien. Wenn man beim schreiben eines Codes einen Fehler gemacht hat, kann man zu einem commit zurückkehren und weiterarbeiten.
+
 ## <ins>Branch:</ins>
 Branches sind eigene Arbeitsflächen abseits der Hauptarbeitsfläche. Somit kann man an bug-fixes und Features arbeiten, ohne die Hauptarbeitsfläche zu beeinflussen/ verändern. 
 
